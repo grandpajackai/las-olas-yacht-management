@@ -23,7 +23,7 @@
     const menu = document.getElementById('mobile-menu');
     if (!toggle || !menu) return;
 
-    const desktop = window.matchMedia('(min-width: 901px)');
+    const mobile = window.matchMedia('(max-width: 900px)');
     const background = Array.from(document.querySelectorAll('main, .footer'));
     const previousInert = new Map();
     const closedLabel = toggle.getAttribute('aria-label') || 'Open navigation menu';
@@ -33,7 +33,7 @@
     const focusable = () => [toggle, ...menu.querySelectorAll(focusableSelector)].filter(element => element.getClientRects().length > 0 && !element.hidden);
 
     function setOpen(next, restoreFocus = true) {
-      open = next && !desktop.matches;
+      open = next && mobile.matches;
       toggle.setAttribute('aria-expanded', String(open));
       toggle.setAttribute('aria-label', open ? 'Close navigation menu' : closedLabel);
       menu.classList.toggle('open', open);
@@ -85,8 +85,8 @@
         target.focus({ preventScroll: true });
       }
     });
-    desktop.addEventListener('change', () => {
-      if (desktop.matches && open) setOpen(false, false);
+    mobile.addEventListener('change', () => {
+      if (!mobile.matches && open) setOpen(false, false);
     });
   }
 
