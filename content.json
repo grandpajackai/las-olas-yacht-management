@@ -1,0 +1,188 @@
+{
+  "services": [
+    {
+      "slug": "interior-care",
+      "short": "Interior care",
+      "title": "Yacht Interior Care in Fort Lauderdale",
+      "eyebrow": "Considered to the detail",
+      "intro": "The feeling of stepping aboard begins below deck. A thoughtful interior care plan keeps cabins, gathering spaces and everyday essentials clean, composed and ready for the way you spend time on your yacht.",
+      "body": "From the first guest arrival to the final weekend clean-up, interior care brings consistency to the spaces you use most. We shape the scope around your finishes, layout and preferences, with cleaning, laundry coordination, refrigeration care and optional styling considered together. The result is an interior that feels welcoming each time you return.",
+      "items": [
+        "Cabin, salon and head cleaning, with floor and upholstery care",
+        "Laundry coordination, linen presentation and guest arrival staging",
+        "Windows, portholes, refrigeration, ice makers and stainless finishes",
+        "Optional interior styling, personalized linens, pillows, tableware and accessories"
+      ],
+      "faq": [
+        {"q": "Can interior care follow our cruising schedule?", "a": "Yes. The proposed schedule can account for how often you use the yacht, upcoming guests and periods away. Routine refreshes and deeper cleaning can be planned separately."},
+        {"q": "Can you help prepare the yacht for guests or a boat show?", "a": "Guest arrival and presentation work can be included in the agreed scope, from linen and towel placement to cabin organization and optional styling. Share the occasion and timing when requesting a plan."}
+      ]
+    },
+    {
+      "slug": "exterior-detailing",
+      "short": "Exterior detailing",
+      "title": "Yacht Detailing in Fort Lauderdale",
+      "eyebrow": "A beautiful first impression",
+      "intro": "Salt, sun and daily exposure demand a considered approach. Exterior detailing pairs careful cleaning with finish preservation, helping your yacht look its best while giving its surfaces the regular attention life on the water requires.",
+      "body": "A well-kept exterior starts with a thorough wash and continues through the details: glass, stainless, cushions, hatches and drainage channels. Your care plan can bring these tasks together with polishing, coating coordination and corrosion attention. Materials and condition guide the approach, so each visit supports the yacht's appearance and ongoing upkeep.",
+      "items": [
+        "Exterior washdowns with cushion areas, hatches and water channels",
+        "Window and windshield cleaning, metal polishing and restoration",
+        "Finish polishing, protective coating coordination and vinyl conditioning",
+        "Bilge and machinery-space detailing, with corrosion prevention attention"
+      ],
+      "faq": [
+        {"q": "How often should a yacht be washed?", "a": "The right frequency depends on use, exposure, berth and finish condition. Weekly or fortnightly attention can form the starting point for a tailored schedule, with additional visits after trips when needed."},
+        {"q": "Are polishing and protective coatings part of routine cleaning?", "a": "They are distinct services. We can assess the finish and propose a separate preservation schedule alongside routine washdowns, with the scope and products agreed before work begins."}
+      ]
+    },
+    {
+      "slug": "maintenance",
+      "short": "Maintenance & systems",
+      "title": "Yacht Maintenance in Fort Lauderdale",
+      "eyebrow": "Readiness starts with routine",
+      "intro": "Enjoyment depends on the systems you rarely see. A coordinated maintenance plan brings vessel inspections, machinery attention and service scheduling into one clear rhythm, with useful records and communication that keep you informed about your yacht.",
+      "body": "Maintenance works best when routine observations and scheduled service inform each other. We build the scope around your vessel's equipment, manufacturer guidance and operating pattern, then coordinate checks, service needs and outside specialists as appropriate. Fluid levels, strainers, seacocks, machinery operation and service records all contribute to a more considered approach to readiness.",
+      "items": [
+        "Engine and generator fluid checks, start-ups and hour records",
+        "Electrical and onboard systems checks, with tank-level monitoring",
+        "Sea strainer care, seacock exercise and corrosion attention",
+        "Repair, warranty, A/C service and underwater cleaning coordination"
+      ],
+      "faq": [
+        {"q": "Can you work with an existing service provider?", "a": "The plan can incorporate existing relationships, warranty requirements and preferred specialists. Clear scopes, schedules and records help coordinate work across the people caring for your yacht."},
+        {"q": "How is the maintenance schedule established?", "a": "We consider equipment guidance, recorded hours, condition, location and your plans for the vessel. The proposed schedule can combine routine checks with calendar-based and usage-based service needs."}
+      ]
+    },
+    {
+      "slug": "project-management",
+      "short": "Project management",
+      "title": "Yacht Refit & Project Management in Fort Lauderdale",
+      "eyebrow": "Clarity from yard to water",
+      "intro": "A service period should have a clear direction. Project management connects the work, the people and the decisions, giving yacht owners a considered point of coordination from early planning through the vessel's return to its berth.",
+      "body": "Whether the project involves a planned haul-out, repairs or selected upgrades, coordination starts with an agreed scope. We can help organize yard time, contractors, estimates and milestones, then follow progress and communicate decisions as work develops. The aim is straightforward: an informed owner, a coherent schedule and careful attention to the work being performed.",
+      "items": [
+        "Work-scope development, estimate review and project scheduling",
+        "Shipyard, haul-out, contractor and vessel transport coordination",
+        "Progress oversight, photo updates and owner decision tracking",
+        "Completion review, service record collection and return-to-berth planning"
+      ],
+      "faq": [
+        {"q": "Can project management be arranged on its own?", "a": "Yes. A specific repair, refit or yard period can be discussed as a separate engagement or as part of a wider management plan. The responsibilities and fees are set out in the proposal."},
+        {"q": "How are changes to the work handled?", "a": "The project scope should establish how additional work is reviewed and authorized. When new needs arise, the impact on cost and timing can be presented for the owner's decision before proceeding."}
+      ]
+    },
+    {
+      "slug": "captain-and-crew",
+      "short": "Captain & crew",
+      "title": "Yacht Captain & Crew Services in Fort Lauderdale",
+      "eyebrow": "The right people aboard",
+      "intro": "Every outing asks something different of the people aboard. Captain and crew arrangements can support a relaxed local day, a vessel delivery or a longer passage, with roles shaped around your yacht, your guests and your plans.",
+      "body": "Start with the experience you want and the practical support the vessel needs. We can help coordinate captain services, deck assistance, onboard hospitality and longer-term crew placement. Vessel requirements, itinerary, qualifications and availability guide the arrangement. The agreed scope makes responsibilities clear before departure, allowing you to focus on the time you spend aboard.",
+      "items": [
+        "Captain arrangements for local outings and planned cruising",
+        "Yacht delivery and repositioning coordination",
+        "Deck assistance with lines, fenders and onboard preparation",
+        "Onboard hospitality support and full-time crew placement assistance"
+      ],
+      "faq": [
+        {"q": "Can I arrange deck or hospitality help without a captain?", "a": "Yes. An owner-operated yacht may need support with docking tasks, preparation or guest service. Tell us the vessel details, itinerary and assistance required so an appropriate arrangement can be discussed."},
+        {"q": "What information is needed to arrange a captain?", "a": "Useful details include the yacht's make and length, location, dates, itinerary, expected guest count and any particular operating requirements. Availability and the engagement scope are confirmed during planning."}
+      ]
+    },
+    {
+      "slug": "concierge",
+      "short": "Yacht concierge",
+      "title": "Yacht Concierge Services in Fort Lauderdale",
+      "eyebrow": "Every detail of the escape",
+      "intro": "The best days on the water begin before you step aboard. Yacht concierge brings the practical details together, connecting your time afloat with the travel, reservations and experiences that make the entire journey feel thoughtfully arranged.",
+      "body": "From a simple afternoon departure to a longer itinerary, small arrangements can make a meaningful difference. Your concierge scope can include provisioning, marina reservations, transfers, accommodation and dining, with travel and leisure requests coordinated around your preferences. Plans remain personal to the occasion, the destination and the way you like to spend your time.",
+      "items": [
+        "Voyage itineraries, marina reservations and dockage arrangements",
+        "Provisioning and preparation for planned days aboard",
+        "Commercial or private travel arrangements and ground transfers",
+        "Dining, accommodation, activities and water-toy rental coordination"
+      ],
+      "faq": [
+        {"q": "Can concierge cover arrangements beyond the yacht?", "a": "Yes. Travel, ground transport, hotels and dining can be coordinated alongside the onboard itinerary. Share the full shape of your visit so the proposed scope connects each part of the experience."},
+        {"q": "How far ahead should I begin planning?", "a": "Earlier planning gives more room to consider marina space, crew and reservations, particularly for busy dates or longer trips. Send the dates and priorities you already know, even if the itinerary is still taking shape."}
+      ]
+    },
+    {
+      "slug": "hurricane-planning",
+      "short": "Hurricane planning",
+      "title": "Yacht Hurricane Planning in Fort Lauderdale",
+      "eyebrow": "Prepared before the forecast",
+      "intro": "Storm preparation deserves attention well before a system approaches. A vessel-specific hurricane plan brings documentation, readiness tasks and relocation arrangements into focus, helping owners understand the decisions and coordination involved in preparing their yacht for severe weather.",
+      "body": "Preparation begins with the yacht, its current berth and the arrangements available to it. We can help source a storm plan, organize relevant documents, track renewals and coordinate readiness or relocation work. Each plan should identify responsibilities and practical limits, with timing shaped by the agreed arrangements, provider availability and evolving local conditions.",
+      "items": [
+        "Vessel-specific storm plan sourcing and preparation review",
+        "Document organization, renewal tracking and owner coordination",
+        "Readiness tasks and relocation planning to an agreed location",
+        "Return arrangements and post-event vessel checks when conditions permit"
+      ],
+      "faq": [
+        {"q": "When should hurricane planning begin?", "a": "Begin well before a storm threatens the area. Early planning allows time to review documents, possible locations, vessel requirements and the people responsible for each action."},
+        {"q": "Does a hurricane plan guarantee a berth or prevent damage?", "a": "No. Berth or haul-out arrangements depend on specific provider agreements and availability, and severe weather carries unavoidable uncertainty. The value of a plan is clearer preparation, responsibilities and coordination."}
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "slug": "essential-care",
+      "name": "Essential Care",
+      "tagline": "A considered foundation for time well spent.",
+      "description": "A focused starting point for everyday vessel upkeep. Combine essential cleaning and routine checks in a schedule tailored to your yacht, with additional services discussed whenever your plans call for them.",
+      "items": [
+        "Basic exterior washdowns, typically every two weeks",
+        "Interior detailing, typically monthly",
+        "Scheduled sea strainer attention",
+        "Monthly systems review and machinery start-up planning",
+        "Additional care arranged around individual requirements"
+      ],
+      "ideal": "Owners who want practical support while remaining closely involved with their yacht."
+    },
+    {
+      "slug": "coastal-care",
+      "name": "Coastal Care",
+      "tagline": "More attention. A more effortless arrival aboard.",
+      "description": "A balanced approach for owners who want a more complete rhythm of care. Detailed cleaning, systems attention and service coordination come together around a proposed fortnightly schedule, adjusted to vessel needs.",
+      "items": [
+        "Detailed exterior cleaning and glass care, typically fortnightly",
+        "Interior refreshes, monthly detailing and laundry coordination",
+        "Fluid, strainer, seacock and systems check planning",
+        "Repair and warranty service scheduling",
+        "Pre-departure preparation and optional yard project oversight"
+      ],
+      "ideal": "Regular boaters seeking consistent upkeep and coordinated support between their days aboard."
+    },
+    {
+      "slug": "complete-management",
+      "name": "Complete Management",
+      "tagline": "The whole yacht, thoughtfully brought into focus.",
+      "description": "A comprehensive framework that connects presentation, technical upkeep and ownership logistics. A proposed weekly care rhythm supports your yacht, while service records, project coordination and departure planning keep the wider picture clear.",
+      "items": [
+        "Weekly exterior and interior care planning, with finish preservation",
+        "Routine machinery, fluid, strainer and onboard systems attention",
+        "Service records, hour logs and maintenance scheduling",
+        "Shipyard projects, parts, fuel, pump-out and documentation coordination",
+        "Provisioning, concierge, berth checks and pre-departure preparation"
+      ],
+      "ideal": "Owners seeking one coordinated plan for the many details of yacht ownership."
+    },
+    {
+      "slug": "sportfish-care",
+      "name": "Sportfish Care",
+      "tagline": "Purposeful care for the next offshore day.",
+      "description": "Care shaped for center consoles and sportfishing yachts, where condition and practical readiness matter together. Build a program around regular cleaning, machinery attention, underwater care and the demands of your fishing calendar.",
+      "items": [
+        "Weekly exterior care planning, including cushions, metal and glass",
+        "Interior refreshes, refrigeration care and departure preparation",
+        "Machinery checks, systems review and service records",
+        "Scheduled bottom cleaning and fishing equipment attention",
+        "Fuel, supplies, maintenance and yard project coordination"
+      ],
+      "ideal": "Fishing-focused owners who want care aligned with their vessel and offshore plans."
+    }
+  ]
+}

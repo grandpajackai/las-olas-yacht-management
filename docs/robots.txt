@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /las-olas-yacht-management/404/
+Sitemap: https://grandpajackai.github.io/las-olas-yacht-management/sitemap.xml
